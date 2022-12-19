@@ -1,0 +1,8 @@
+{
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://alexkost:sasha001!@cloud.ddqxvrj.mongodb.net/?retryWrites=true&w=majority",
+    "secretKey": "secket-key",
+    "filePath": "C:\\Users\\Admin\\Desktop\\Storage\\CloudStorage\\server\\files",
+    "staticPath": "C:\\Users\\Admin\\Desktop\\Storage\\CloudStorage\\server\\static"
+  }
+  
